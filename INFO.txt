@@ -1,0 +1,7 @@
+10,000 is a leaderboard type dice game using at minimum 2 players to many, using 6 dice
+
+SHORT:
+-> get 10,000 to get on board, 1s are 1000, 2 are 200, 3 are 300, 4 are 400, 5 are 500, 6 are 600
+	-> winning score can be set by players to whatever
+	-> points to get on board can be set by players to whatever
+	-> amount of dice used in game can be set by the players to whatever but not generally sane beyond 9 dice
